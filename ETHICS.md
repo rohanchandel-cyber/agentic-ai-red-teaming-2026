@@ -1,7 +1,7 @@
 # Ethics & Responsible Use Policy
 
 ## 1. Purpose & Intent
-The **Agentic AI Red Teaming Project** was developed by Rohan Chandel for educational, research, and authorized security testing purposes only. The primary goal of this project is to explore the intersection of Large Language Models (LLMs) and automated network reconnaissance to improve defensive postures and security automation.
+The **Agentic AI Red Teaming Project** was developed by Rohan for educational, research, and authorized security testing purposes only. The primary goal of this project is to explore the intersection of Large Language Models (LLMs) and automated network reconnaissance to improve defensive postures and security automation.
 
 ## 2. Authorized Testing Only
 This tool must **NEVER** be used against any infrastructure, network, or device without explicit, written, and informed consent from the owner. 
